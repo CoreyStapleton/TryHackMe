@@ -154,17 +154,17 @@ The shebang, #!, must be at the beginning of the file.
 
 Everything on the linux file system extends from "/". The / is the same as C: in Windows. If you were to delete / you would delete every file on your system.
 
-**/etc/passwd** - Stores user information; often used to see all the users on a system.
-**/etc/shadow** - Has all the passwords of these users.
-**/tmp** - Every file inside it gets deleted upon shutdown, used for temp files.
-**/etc/sudoers** - Used to control the sudo permissions of every user on the system.
-**/home** - The directory wherre all your download, documents etc. are; the equivalent on Windows is C:\Users\<username>
-**/root** - The root user's home directory; the equivalent on Windows is C:\Users\Administrator
-**/usr** - Where all your software is installed.
-**/bin** - Used for system critical files; DO NOT DELETE
-**/sbin** - Used for system critical files; DO NOT DELETE
-**/var** - The Linux miscellaneous directory; a myriad of processes store data in /var
-**$PATH** - Stores all the binaries you're able to run; same as $PATH on Windows
+**/etc/passwd** - Stores user information; often used to see all the users on a system.</br>
+**/etc/shadow** - Has all the passwords of these users.</br>
+**/tmp** - Every file inside it gets deleted upon shutdown, used for temp files.</br>
+**/etc/sudoers** - Used to control the sudo permissions of every user on the system.</br>
+**/home** - The directory wherre all your download, documents etc. are; the equivalent on Windows is C:\Users\<username></br>
+**/root** - The root user's home directory; the equivalent on Windows is C:\Users\Administrator</br>
+**/usr** - Where all your software is installed.</br>
+**/bin** - Used for system critical files; DO NOT DELETE</br>
+**/sbin** - Used for system critical files; DO NOT DELETE</br>
+**/var** - The Linux miscellaneous directory; a myriad of processes store data in /var</br>
+**$PATH** - Stores all the binaries you're able to run; same as $PATH on Windows</br>
 
 The ***which*** command shows you where an executable is in any of the $PATCH directories.
 
