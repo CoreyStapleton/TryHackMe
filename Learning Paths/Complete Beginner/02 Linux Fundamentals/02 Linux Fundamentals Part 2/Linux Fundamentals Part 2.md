@@ -163,6 +163,6 @@ To move files from one place to another is ***mv***. The syntax is "mv <file> <d
   
 You can also use ***mv*** to change the name of a file, "mv file ~/gfhds" will rename file to gfhds
 
-## Taks 18 - Linux Fundamentals 3
+## Task 18 - Linux Fundamentals 3
 
 Now that we have some intermediate knowledge to using Linux, we can finish the Linux series with Linux Fundamentals 3 room.
